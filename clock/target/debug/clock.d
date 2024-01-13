@@ -1,1 +1,0 @@
-/home/rgoncalves94/Projects/learning/rust-exercises/clock/target/debug/clock: /home/rgoncalves94/Projects/learning/rust-exercises/clock/src/lib.rs /home/rgoncalves94/Projects/learning/rust-exercises/clock/src/main.rs
